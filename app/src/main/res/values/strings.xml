@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="apk">fbd50b883df0d6de3344f4566e09783c</string>
+    <string name="ExampleAPIRequest">https://api.themoviedb.org/3/movie/550?api_key=fbd50b883df0d6de3344f4566e09783c</string>
+    <string name="ExampleAPIRequestformovies"> http://api.themoviedb.org/3/discover/movie?api_key=fbd50b883df0d6de3344f4566e09783c</string>
+    <string name="exampleUri">http://image.tmdb.org/t/p/w185//nBNZadXqJSdt05SHLqgT0HuC5Gm.jpg</string>
+    <string name="title_activity_poster_details">PosterDetails</string>
+</resources>
